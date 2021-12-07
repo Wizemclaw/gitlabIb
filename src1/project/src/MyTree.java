@@ -69,7 +69,7 @@ public class MyTree {
    * Calculate the number of nodes in this tree. Recursively calculate the
    * number of nodes in this search tree.
    *
-   * @return The total number of nodes.
+   * @return The total number of nodes!
    */
   public int cardinal() {
     if(root == null) {
