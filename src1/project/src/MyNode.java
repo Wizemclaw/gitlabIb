@@ -12,7 +12,7 @@ public class MyNode {
   private MyNode right;
   private int value;
   private MyNode Benny1;
-  private Mynode Benny3;
+  private Mynode Benny5;
 
   /**
    * Class constructor initializing this node's value.
