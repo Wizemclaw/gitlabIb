@@ -12,8 +12,7 @@ public class MyNode {
   private MyNode right;
   private int value;
   private MyNode Benny1;
-  private Mynode Benny2;
-  private MyNode benny3;
+  private Mynode Benny3;
 
   /**
    * Class constructor initializing this node's value.
@@ -21,6 +20,7 @@ public class MyNode {
    * @param value The value of this node.
    */
   public MyNode(int value) {
+    this.Benny1 = new MyNode(5);
     this.value = value;
   }
 
